@@ -184,3 +184,4 @@ class User:
 
 person = User('Анастасия', 'As2120496')
 print(person.__str__())
+# Изменения
